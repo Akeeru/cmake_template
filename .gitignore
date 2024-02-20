@@ -6,8 +6,12 @@
 !.vscode/tasks.json
 
 # Build directories and binary files
-out
 .clangd
+build/
+out/
+out/coverage/*
+cmake-build-*/
+conan-cache/
 
 # User spesific settings
 CMakeUserPresets.json
@@ -21,6 +25,7 @@ CMakeUserPresets.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+*.bak
 *.swp
 *~
 _ReSharper*
