@@ -1,9 +1,9 @@
 # cmake_template
 
-[![ci](https://github.com/cpp-best-practices/cmake_template/actions/workflows/ci.yml/badge.svg)](https://github.com/cpp-best-practices/cmake_template/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/cpp-best-practices/cmake_template/branch/main/graph/badge.svg)](https://codecov.io/gh/cpp-best-practices/cmake_template)
-[![CodeQL](https://github.com/cpp-best-practices/cmake_template/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cpp-best-practices/cmake_template/actions/workflows/codeql-analysis.yml)
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cpp-best-practices/cmake_template)
+[![ci](https://github.com/akeeru/cmake_template/actions/workflows/ci.yml/badge.svg)](https://github.com/akeeru/cmake_template/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/akeeru/cmake_template/branch/main/graph/badge.svg)](https://codecov.io/gh/akeeru/cmake_template)
+[![CodeQL](https://github.com/akeeru/cmake_template/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/akeeru/cmake_template/actions/workflows/codeql-analysis.yml)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/akeeru/cmake_template)
 
 ## About cmake_template
 
@@ -35,7 +35,7 @@ This project gets you started with a simple example of using FTXUI, which happen
 
 ### Use the GitHub template
 First, click the green `Use this template` button near the top of this page.
-This will take you to GitHub's ['Generate Repository'](https://github.com/cpp-best-practices/cmake_template/generate)
+This will take you to GitHub's ['Generate Repository'](https://github.com/akeeru/cmake_template/generate)
 page.
 Fill in a repository name and short description, and click 'Create repository from template'.
 This will allow you to create a new repository in your GitHub account,
