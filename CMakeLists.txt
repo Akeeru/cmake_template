@@ -14,7 +14,7 @@ endif()
 # when compiling with PCH enabled
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-include(project_variables.cmake)
+include(Project.cmake)
 
 # Set the project name and language
 project(
@@ -62,6 +62,7 @@ add_library(myproject::myproject_warnings ALIAS myproject_warnings)
 # configure files based on CMake configuration options
 add_subdirectory(configured_files)
 
+include(cmake/Sources.cmake)
 # Adding the src:
 add_subdirectory(src)
 

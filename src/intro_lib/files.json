@@ -1,0 +1,4 @@
+{
+    "sources": ["intro_lib.cpp"],
+    "headers": ["intro_lib.hpp"]
+}
